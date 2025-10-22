@@ -1,17 +1,40 @@
 # Michen-learning_basics_project-1-
-Build Machine Learning Models for Artificial Intelligence: Develop and fine-tune ML models for classification, regression, and clustering.
-Linear regression model for predicting 
-Logistic regression for binary classification
- K-means clustering
-Decision tree classifier 
-Simple neural network 
-Naive Bayes classifier
-KNN algorithm implementation
-Support vector machine 
- Random forest classifier
-Gradient boosting algorithm implementation
- Anomaly detection using statistics
-Simple recommendation system
-Principal component analysis implementation
-Feature selection techniques
-Cross-validation implementation
+Build Machine Learning Models for Artificial Intelligence: Develop and fine-tune ML models for classification, regression, and clustering,
+Linear regression model for predicting, 
+Logistic regression for binary classification,
+ K-means clustering,
+Decision tree classifier, 
+Simple neural network, 
+Naive Bayes classifier,
+KNN algorithm implementation,
+Support vector machine ,
+ Random forest classifier,
+Gradient boosting algorithm implementation,
+ Anomaly detection using statistics,
+Simple recommendation system,
+Principal component analysis implementation,
+Feature selection techniques,
+Cross-validation implementation,
+Grid search for hyperparameter tuning,
+Bayesian optimization for hyperparameters,
+Correlation analysis tool,
+Confusion matrix visualization,
+ROC curve generator,
+Precision-recall curve plotter,
+Learning curve visualizations,
+Data normalization techniques,
+Feature engineering toolkit,
+Time series forecasting with ARIMA,
+Simple genetic algorithm,
+Hierarchical clustering implementation,
+DBSCAN clustering implementation,
+Ensemble methods implementation,
+Bootstrap aggregating (bagging) implementation,
+AdaBoost algorithm implementation,
+A/B testing framework,
+Multi-armed bandit implementation,
+Dimensionality reduction techniques,
+t-SNE visualization tool,
+Multi-layer perceptron classifier,
+
+
